@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*-
-# HXM BT message decoding adapted from HXM Tracker by Jari Multisilta
-#  http://www.my-maemo.com/software/applications.php?name=HXM_Tracker&faq=38&fldAuto=1293
+# Based on https://bitbucket.org/cuu508/hxm-t/src
 
 from struct import unpack
 import bluetooth
